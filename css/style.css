@@ -1516,6 +1516,24 @@ h3 {
   background-repeat: no-repeat;
 }
 
+.productivity_areaclothes {
+  background-image: url(../img/fondofinal.jpg);
+  background-size: cover;
+  background-position: center center;
+  padding: 164px 0;
+  background-repeat: no-repeat;
+}
+
+.indexcanhasta {
+  background-image: url(../img/fondocomercio.png);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 30% 85%;
+
+
+}
+
 @media (max-width: 767px) {
   .productivity_area {
     padding: 100px 0;
@@ -1529,6 +1547,15 @@ h3 {
   line-height: 60px;
   text-align: center;
 }
+
+.productivity_areaclothes h3 {
+  font-size: 46px;
+  font-weight: 500;
+  color: #000000;
+  line-height: 60px;
+  text-align: center;
+}
+
 
 @media (max-width: 767px) {
   .productivity_area h3 {
@@ -1860,6 +1887,7 @@ h3 {
 .service_area {
   padding: 0 0 60px 0;
 }
+
 
 @media (max-width: 767px) {
   .service_area {
